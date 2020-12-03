@@ -1,8 +1,8 @@
 package router
 
 import (
+	"github.com/go-starter/controller"
 	"github.com/gorilla/mux"
-	"github.com/shijuvar/gokit/examples/training-api/controller"
 )
 
 func InitializeRoutes(ctl *controller.CustomerController) *mux.Router {

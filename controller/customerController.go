@@ -2,8 +2,9 @@ package controller
 
 import (
 	"encoding/json"
+	"github.com/go-starter/domain"
 	"github.com/gorilla/mux"
-	"github.com/shijuvar/gokit/examples/training-api/domain"
+
 	"go.uber.org/zap"
 	"net/http"
 )

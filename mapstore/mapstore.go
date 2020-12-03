@@ -2,7 +2,7 @@ package mapstore
 
 import (
 	"errors"
-	"github.com/shijuvar/gokit/examples/training-api/domain"
+	"github.com/go-starter/domain"
 )
 
 type MapStore struct {

@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/shijuvar/gokit/examples/training-api/controller"
-	"github.com/shijuvar/gokit/examples/training-api/mapstore"
-	"github.com/shijuvar/gokit/examples/training-api/router"
+	"github.com/go-starter/controller"
+	"github.com/go-starter/mapstore"
+	"github.com/go-starter/router"
 	"go.uber.org/zap"
 	"log"
 	"net/http"
