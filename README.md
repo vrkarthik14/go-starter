@@ -1,2 +1,2 @@
 # go-starter
-Start the server using ***go run main.go***
+Start the server using ***go run main/main.go***
